@@ -78,3 +78,4 @@ export function QuienesSomos({ navigation }) {
     </View>
   );
 }
+
