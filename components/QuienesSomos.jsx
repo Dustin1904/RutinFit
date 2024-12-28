@@ -9,7 +9,7 @@ import {
 import imagenes from "../assets/images.js";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import Ionicons from "@expo/vector-icons/Ionicons";
-import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
+import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
 
 export function QuienesSomos({ navigation }) {
   const insets = useSafeAreaInsets();
@@ -54,23 +54,23 @@ export function QuienesSomos({ navigation }) {
             proyecto móvil, el cual fue realizado con el propósito de ayudar a
             las personas a tener un control sobre su condición física y mental.
           </Text>
-            <Text className="text-xl font-bold">Contáctame:</Text>
-          <View className="flex-row w-full flex-wrap p-3">
-            <TouchableOpacity>
-              <Text className="text-black text-center"> Facebook </Text>
+          <Text className="text-xl font-bold">Contáctame:</Text>
+          <View className="flex-row w-full flex-wrap  bg-white justify-evenly">
+            <TouchableOpacity onPress={() => Linking.openURL("https://www.facebook.com/DustinJMS")} className="border-2 justify-center border-black rounded-xl flex-row items-center ">
               <Ionicons name="logo-facebook" size={24} color="black" />
+              <Text className="text-black text-center"> Facebook </Text>
             </TouchableOpacity>
-            <TouchableOpacity>
-              <Text className="text-black text-center"> Correo </Text>
+            <TouchableOpacity onPress={() => Linking.openURL("mailto:dustin04ms@gmail.com")} className="border-2 justify-center border-black rounded-xl flex-row items-center ">
               <MaterialCommunityIcons name="email" size={24} color="black" />
+              <Text className="text-black text-center"> Correo </Text>
             </TouchableOpacity>
-            <TouchableOpacity>
-              <Text className="text-black text-center"> Tiktok </Text>
+            <TouchableOpacity onPress={() => Linking.openURL("https://www.tiktok.com/@dustinmsj")} className="border-2 justify-center border-black rounded-xl flex-row items-center ">
               <Ionicons name="logo-tiktok" size={24} color="black" />
+              <Text className="text-black text-center"> Tiktok </Text>
             </TouchableOpacity>
-            <TouchableOpacity>
-              <Text className="text-black text-center"> Whatsapp </Text>
+            <TouchableOpacity onPress={() => Linking.openURL("https://wa.me/593")} className="border-2 justify-center border-black rounded-xl flex-row items-center ">
               <Ionicons name="logo-whatsapp" size={24} color="black" />
+              <Text className="text-black text-center"> Whatsapp </Text>
             </TouchableOpacity>
           </View>
         </View>
