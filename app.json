@@ -1,26 +1,26 @@
 {
   "expo": {
-    "name": "RutinFit",
-    "slug": "RutinFit",
-    "version": "1.0.0",
+    "name": "rutin-fit-app",
+    "slug": "rutin-fit-app",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/loginIcon.png",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
     "splash": {
       "image": "./assets/loginIcon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.joelms.RutinFit"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/loginIcon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.joelms.RutinFit"
+      "package": "com.djms.rutinfitapp"
     },
     "web": {
       "favicon": "./assets/loginIcon.png",
@@ -28,10 +28,8 @@
     },
     "extra": {
       "eas": {
-        "projectId": "03274512-1280-4504-af8d-9c1963fb84e6"
+        "projectId": "260c7938-2fb0-4725-9766-adb3be639364"
       }
-    },
-    "owner": "joelms",
-    "sdkVersion": "51.0.0"
+    }
   }
 }
