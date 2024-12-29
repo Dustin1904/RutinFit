@@ -6,7 +6,7 @@ import { PasswordField } from '@/components/PasswordField';
 import { AuthContext } from '@/contexts/AuthProvider';
 import { useLogin } from '@/models/useLogin';
 import { useProfile } from '@/models/useProfile';
-import loginIcon from '@assets/loginIcon.png';
+import LoginIcon from '@assets/LoginIcon.png';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useContext, useState } from 'react';
@@ -55,7 +55,7 @@ export function Login({ navigation }) {
         style={{ shadowColor: '#00ff82', elevation: 20 , shadowRadius: 10 }}
         className="mx-auto w-4/5 items-center gap-y-4 border-primary py-10 rounded-3xl bg-white"
       >
-        <Image source={loginIcon} className="size-28" resizeMode="contain" />
+        <Image source={LoginIcon} className="size-28" resizeMode="contain" />
         <Text className="text-3xl font-extrabold">Login</Text>
         <View className="w-3/4 gap-y-2">
           <InputField
