@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "rutin-fit-app",
-    "slug": "rutin-fit-app",
+    "slug": "RutinFit",
     "version": "2.0.0",
     "orientation": "portrait",
-    "icon": "./assets/loginIcon.png",
+    "icon": "./assets/IconLogin.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/loginIcon.png",
+      "image": "./assets/IconLogin.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,19 +17,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/loginIcon.png",
+        "foregroundImage": "./assets/IconLogin.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.djms.rutinfitapp"
     },
     "web": {
-      "favicon": "./assets/loginIcon.png",
+      "favicon": "./assets/IconLogin.png",
       "blunder": "metro"
     },
     "extra": {
       "eas": {
-        "projectId": "260c7938-2fb0-4725-9766-adb3be639364"
+        "projectId": "03274512-1280-4504-af8d-9c1963fb84e6"
       }
-    }
+    },
+    "owner": "joelms"
   }
 }

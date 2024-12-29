@@ -2,7 +2,7 @@ import { AuthHeader } from '@/components/AuthHeader';
 import { Footer } from '@/components/Footer';
 import { PasswordField } from '@/components/PasswordField';
 import { useRecoveryPassword } from '@/models/useRecoveryPassword';
-import LoginIcon from '@assets/LoginIcon.png';
+import IconLogin from '@assets/IconLogin.png';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { useState } from 'react';
 import {
@@ -42,7 +42,7 @@ export function NewPassword({ navigation, route }) {
         style={{ shadowColor: '#00ff82', elevation: 20 }}
         className="mx-auto w-4/5 items-center gap-y-4 border-primary py-10 bg-white rounded-3xl"
       >
-        <Image source={LoginIcon} className="size-28" resizeMode="contain" />
+        <Image source={IconLogin} className="size-28" resizeMode="contain" />
         <Text className="text-3xl font-extrabold">Nueva Contraseña</Text>
 
         <View className="w-3/4 gap-y-4">
