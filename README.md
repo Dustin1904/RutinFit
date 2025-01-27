@@ -57,6 +57,20 @@ usuario, de esta forma los usuarios sin experiencia no irán por un camino a cie
 
 </details>
 
+## Instalación
+<details>
+  <summary>📲 <strong>Para usuarios</strong></summary>
+  
+  Puedes descargar la aplicación directamente desde el siguiente enlace:  
+  👉 [Descargar la APK aquí](https://apkpure.com/es/rutinfit/com.djms.rutinfitapp)
+
+  > **⚠️ Nota importante:**  
+  > La aplicación es segura, sin embargo, en algunos casos puede no ser aceptada en el dispositivo.  
+  > Por esta razón, es necesario **activar la descarga de fuentes desconocidas** en tu dispositivo.
+
+</details>
+
+
 
 
 
