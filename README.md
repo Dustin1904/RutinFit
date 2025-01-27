@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align='center' items='center'>
   <img src='https://github.com/user-attachments/assets/0c92a49a-c124-4795-ab56-24193f9e4585' height='35px' >
   Rutin Fit
   <img src='https://github.com/user-attachments/assets/0c92a49a-c124-4795-ab56-24193f9e4585' height='35px' >
@@ -29,23 +29,28 @@ usuario, de esta forma los usuarios sin experiencia no irán por un camino a cie
 - Editor de código como Visual Studio Code
 
 ## Instalación
-1. Clonar el repositorio
+<details>
+  <summary>
+    🔧 **Para desarrolladores** 
+  </summary>
+  1. Clonar el repositorio
    ```bash
    git clone "https://github.com/Dustin1904/RutinFit.git"
    ```
-2. Navegar al directorio donde se hizo la clonación
+  2. Navegar al directorio donde se hizo la clonación
   ```bash
   cd RutinFit
   ```
-3. Instalar las dependecias necesarias
+  3. Instalar las dependecias necesarias
    ```bash
    npm install
    ```
-4. Iniciar el proyecto
+  4. Iniciar el proyecto
    ```bash
    npx expo start
    ```
-5. En la terminal aparecerá un codigo QR, mediante la aplicación de **Expo Go** se debe escanear dicho código, en su defecto utilizar un emulador
+  5. En la terminal aparecerá un codigo QR, mediante la aplicación de **Expo Go** se debe escanear dicho código, en su defecto utilizar un emulador
+</details>
 
 
 
