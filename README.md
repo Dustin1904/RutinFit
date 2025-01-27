@@ -1,7 +1,7 @@
 <h1 align='center'>
-  ![—Pngtree—cell phone icon in trendy_4934996](https://github.com/user-attachments/assets/0c92a49a-c124-4795-ab56-24193f9e4585)
+  <img src='https://github.com/user-attachments/assets/0c92a49a-c124-4795-ab56-24193f9e4585' height='35px' >
   Rutin Fit
-  ![—Pngtree—cell phone icon in trendy_4934996](https://github.com/user-attachments/assets/25b0a649-d89a-45d7-8c58-9c65993a62db)
+  <img src='https://github.com/user-attachments/assets/0c92a49a-c124-4795-ab56-24193f9e4585' height='35px' >
 </h1>
 
 ## Descripción
