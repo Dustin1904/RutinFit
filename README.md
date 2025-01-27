@@ -30,27 +30,33 @@ usuario, de esta forma los usuarios sin experiencia no irán por un camino a cie
 
 ## Instalación
 <details>
-  <summary>
-    🔧 **Para desarrolladores** 
-  </summary>
-  1. Clonar el repositorio
-   ```bash
-   git clone "https://github.com/Dustin1904/RutinFit.git"
-   ```
-  2. Navegar al directorio donde se hizo la clonación
-  ```bash
-  cd RutinFit
-  ```
-  3. Instalar las dependecias necesarias
-   ```bash
-   npm install
-   ```
-  4. Iniciar el proyecto
-   ```bash
-   npx expo start
-   ```
-  5. En la terminal aparecerá un codigo QR, mediante la aplicación de **Expo Go** se debe escanear dicho código, en su defecto utilizar un emulador
+  <summary>🔧 <strong>Para desarrolladores</strong></summary>
+  
+  1. **Clonar el repositorio**  
+     ```bash
+     git clone "https://github.com/Dustin1904/RutinFit.git"
+     ```
+
+  2. **Navegar al directorio donde se hizo la clonación**  
+     ```bash
+     cd RutinFit
+     ```
+
+  3. **Instalar las dependencias necesarias**  
+     ```bash
+     npm install
+     ```
+
+  4. **Iniciar el proyecto**  
+     ```bash
+     npx expo start
+     ```
+
+  5. **Escanear el código QR**  
+     En la terminal aparecerá un código QR, que se puede escanear mediante la aplicación **Expo Go**. Como alternativa, puedes usar un emulador.
+
 </details>
+
 
 
 
