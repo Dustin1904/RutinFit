@@ -57,7 +57,6 @@ usuario, de esta forma los usuarios sin experiencia no irán por un camino a cie
 
 </details>
 
-## Instalación
 <details>
   <summary>📲 <strong>Para usuarios</strong></summary>
   
@@ -68,7 +67,25 @@ usuario, de esta forma los usuarios sin experiencia no irán por un camino a cie
   > La aplicación es segura, sin embargo, en algunos casos puede no ser aceptada en el dispositivo.  
   > Por esta razón, es necesario **activar la descarga de fuentes desconocidas** en tu dispositivo.
 
+  ### Capturas de pantalla
+  Una vez instalada la aplicación, puedes comenzar a usar sus funcionalidades, como iniciar sesión o registrarse:
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/135cbc7e-aec9-4256-9ef3-bad4d6a8b323" alt="Pantalla de Inicio" width="250px">
+    <img src="https://github.com/user-attachments/assets/e8a39c3a-2aef-4ba8-8765-48b14faaff43" alt="Pantalla de Registro" width="250px">
+  </div>
+
+  Funcionalidades como visualización de rutinas, progresos, chat y perfil:
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/ade203d7-2772-48d0-949c-4e71187a5ef8" alt="Rutinas" width="250px">
+    <img src="https://github.com/user-attachments/assets/2237fdd2-6dca-412a-9a71-4cf5d7853850" alt="Progresos" width="250px">
+    <img src="https://github.com/user-attachments/assets/06015db4-4961-4a8b-87ed-36bf0b19f9da" alt="Chat" width="250px">
+    <img src="https://github.com/user-attachments/assets/7479a2fe-78df-4775-a2e1-efbda87970da" alt="Perfil" width="250px">
+  </div>
+  
+  Entre otras funcionalidades más.
+  
 </details>
+
 
 
 
